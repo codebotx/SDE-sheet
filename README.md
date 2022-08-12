@@ -15,3 +15,5 @@ This is the collection of all codes mentioned in Striver's SDE sheet. Starting t
 ### Day 2
 
 1. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+1. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)
