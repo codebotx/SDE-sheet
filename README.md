@@ -1,5 +1,5 @@
 # SDE-sheet
-This is the collection of all leetcode codes mentioned in Striver's SDE sheet. Starting the SDE sheet on 10th August 2022.
+This is the collection of all codes mentioned in Striver's SDE sheet. Starting the SDE sheet on 10th August 2022.
 
 [Striver's SDE sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
@@ -17,4 +17,5 @@ This is the collection of all leetcode codes mentioned in Striver's SDE sheet. S
 1. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 1. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)
-1. [Duplicate in N+1](hhttps://leetcode.com/problems/find-the-duplicate-number/)
+1. [Duplicate in N+1](https://leetcode.com/problems/find-the-duplicate-number/)
+1. [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
