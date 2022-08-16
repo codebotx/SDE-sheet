@@ -20,7 +20,7 @@ This is the collection of all codes mentioned in Striver's SDE sheet. Starting t
 1. [Duplicate in N+1](https://leetcode.com/problems/find-the-duplicate-number/)
 1. [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 1. [Inversion of Array](https://www.codingninjas.com/codestudio/problems/count-inversions_615/)
-
+i
 ### Day 3 
 
 1. [Search in a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
