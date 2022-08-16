@@ -21,5 +21,12 @@ This is the collection of all codes mentioned in Striver's SDE sheet. Starting t
 1. [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 1. [Inversion of Array](https://www.codingninjas.com/codestudio/problems/count-inversions_615/)
 
-### Day 3
+### Day 3 
+
+1. [Search in a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+1. [Pow(X,n)](https://leetcode.com/problems/powx-n/)
+1. [Majority Element (>N/2 times)](https://leetcode.com/problems/majority-element/)
+1. [Majority Element (>N/3 times)](https://leetcode.com/problems/majority-element-ii/)
+1. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
+1. [Reverse Pairs (Leetcode)](https://leetcode.com/problems/reverse-pairs/)
 
