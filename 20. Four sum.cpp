@@ -6,17 +6,15 @@ public:
 		vector<vector<int>> res;
 		if (nums.empty())
 			return res;
-		int n = nums.size();
 		sort(nums.begin(), nums.end());
-
-		for (int i = 0; i < n; i++)
+		for (int i = 0; i < nums.size(); i++)
 		{
 			long long int target_3 = target - nums[i];
-			for (int j = i + 1; j < n; j++)
+			for (int j = i + 1; j < nums.size(); j++)
 			{
 				long long int target_2 = target_3 - nums[j];
 				int front = j + 1;
-				int back = n - 1;
+				int back = nums.size() - 1;
 				while (front < back)
 				{
 					long long int two_sum = nums[front] + nums[back];
@@ -32,27 +30,18 @@ public:
 						quadruplet[2] = nums[front];
 						quadruplet[3] = nums[back];
 						res.push_back(quadruplet);
-
-						// Processing the duplicates of number 3
 						while (front < back && nums[front] == quadruplet[2])
 							++front;
-
-						// Processing the duplicates of number 4
 						while (front < back && nums[back] == quadruplet[3])
 							--back;
 					}
 				}
-
-				// Processing the duplicates of number 2
-				while (j + 1 < n && nums[j + 1] == nums[j])
+				while (j + 1 < nums.size() && nums[j + 1] == nums[j])
 					++j;
 			}
-
-			// Processing the duplicates of number 1
-			while (i + 1 < n && nums[i + 1] == nums[i])
+			while (i + 1 < nums.size() && nums[i + 1] == nums[i])
 				++i;
 		}
-
 		return res;
 	}
 };
