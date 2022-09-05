@@ -38,3 +38,13 @@ This is the collection of all of the solution codes to the problems mentioned in
 1. [Largest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 1. [Count number of subarrays with given Xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)
 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+### Day 5
+
+1. [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+1. [Find the middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
+1. [Merge two sorted Linked List (use method used in mergeSort)](https://leetcode.com/problems/merge-two-sorted-lists/)
+1. [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+1. [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
+1. [Delete a given Node when a node is given.(0(1) solution)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
