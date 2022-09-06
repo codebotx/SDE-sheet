@@ -61,3 +61,7 @@ This is the collection of all of the solution codes to the problems mentioned in
 
 1. [Rotate list](https://leetcode.com/problems/rotate-list/)
 1. [Copy List with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+1. [3 sum](https://leetcode.com/problems/3sum/)
+1. [Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
+1. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+1. [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
