@@ -60,3 +60,4 @@ This is the collection of all of the solution codes to the problems mentioned in
 ### Day 7
 
 1. [Rotate list](https://leetcode.com/problems/rotate-list/)
+1. [Copy List with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
