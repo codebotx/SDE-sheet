@@ -55,4 +55,4 @@ This is the collection of all of the solution codes to the problems mentioned in
 1. [Reverse a linkedlist in groups of k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 1. [Check if a linkedlist is palindrome](https://leetcode.com/problems/palindrome-linked-list/)
 1. [Find the starting point of the loop in a linkedlist](https://leetcode.com/problems/linked-list-cycle-ii/)
-1. [Flatten a linkedlist](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+1. [Flatten a linkedlist](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
