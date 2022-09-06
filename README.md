@@ -51,7 +51,7 @@ This is the collection of all of the solution codes to the problems mentioned in
 ### Day 6
 
 1. [Intersection of two linkedlist](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-1.[Delete a cycle in a linkedlist](https://leetcode.com/problems/linked-list-cycle/)
+1. [Delete a cycle in a linkedlist](https://leetcode.com/problems/linked-list-cycle/)
 1. [Reverse a linkedlist in groups of k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 1. [Check if a linkedlist is palindrome](https://leetcode.com/problems/palindrome-linked-list/)
 1. [Find the starting point of the loop in a linkedlist](https://leetcode.com/problems/linked-list-cycle-ii/)
