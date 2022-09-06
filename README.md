@@ -48,3 +48,11 @@ This is the collection of all of the solution codes to the problems mentioned in
 1. [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
 1. [Delete a given Node when a node is given.(0(1) solution)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
+### Day 6
+
+1. [Intersection of two linkedlist](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+1.[Delete a cycle in a linkedlist](https://leetcode.com/problems/linked-list-cycle/)
+1. [Reverse a linkedlist in groups of k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+1. [Check if a linkedlist is palindrome](https://leetcode.com/problems/palindrome-linked-list/)
+1. [Find the starting point of the loop in a linkedlist](https://leetcode.com/problems/linked-list-cycle-ii/)
+1. [Flatten a linkedlist](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
