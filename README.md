@@ -65,3 +65,14 @@ This is the collection of all of the solution codes to the problems mentioned in
 1. [Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
 1. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 1. [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+### Day 8
+1. [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+1. [Minimum number of platforms required for a railway](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
+1. [Job Sequencing](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
+1. [Greedy algorithm to find minimum number of coins](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
+1. [Activity Selection (it is the same as N meeting in one room)](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+
+### Day 9
+
+1. []
