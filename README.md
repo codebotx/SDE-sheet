@@ -75,4 +75,9 @@ This is the collection of all of the solution codes to the problems mentioned in
 
 ### Day 9
 
-1. []
+1. [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
+1. [Subset-II](https://leetcode.com/problems/subsets-ii/)
+1. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
+1. [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)
+1. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+1. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
