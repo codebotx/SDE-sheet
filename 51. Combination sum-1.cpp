@@ -1,26 +1,34 @@
 class Solution {
-    void combination(vector<int>& candidates, int target, vector<int> currComb, int currSum, int currIndex, vector<vector<int>>& ans){
-        if(currSum>target) return; //backtrack
-        if(currSum==target){
-            ans.push_back(currComb); //store the solution and backtrack
-            return;
-        }
-        
-        for(int i=currIndex; i<candidates.size(); i++){ //try all possible options for the next level
-            currComb.push_back(candidates[i]); //put 1 option into the combination
-            currSum+=candidates[i];
-            combination(candidates, target, currComb, currSum, i, ans); //try with this combination, whether it gives a solution or not.
-            currComb.pop_back(); //when this option backtrack to here, remove this and go on to the next option.
-            currSum-=candidates[i];
-        }
-        
-    }
 public:
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> currComb;
-        combination(candidates, target, currComb, 0, 0, ans);
-        return ans;
+        vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> res;
+        vector<int> sum;
+        sort(candidates.begin(), candidates.end());
+        calculatesum(candidates, target, 0, sum, res);
+        for(int i =0;i<res.size();i++)
+            sort(res[i].begin(),res[i].end());
+            
+        set<vector<int>>s(res.begin(),res.end());
+        res.assign(s.begin(),s.end());
+        return res;
     }
-};
+		void calculatesum(vector<int>& candidates, int target, int index, vector<int>& sum, vector<vector<int>>& res){
+			if(target == 0){
+				res.push_back(sum);
+				return;
+			}
+			if(find(candidates.begin(), candidates.end(), target) != candidates.end()){
+				sum.push_back(target);
+				res.push_back(sum);
+				sum.pop_back();
+			}
+			for(int i = index; i < candidates.size(); i++){
+				if(target < candidates[i]) return;
+				sum.push_back(candidates[i]);
+				calculatesum(candidates, target - candidates[i], i, sum, res);
+				sum.pop_back();
+			}
 
+		}
+  
+};
